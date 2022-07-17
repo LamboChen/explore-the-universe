@@ -17,18 +17,18 @@
 
 ## 数据分析
 
-- [PV(page view) / UV(unique visitor) / VV(video view) / CV(content views) / IP)](./data_analysis/PV_UV_VV_CV_IP.md)
+- [PV(page view) / UV(unique visitor) / VV(video view) / CV(content views) / IP)](technology/data_analysis/PV_UV_VV_CV_IP.md)
 
 
 
 # 业务
 
 
-- [会员 AARRR 模型](./biz-member/AARRR模型.md)
+- [会员 AARRR 模型](biz/会员_AARRR模型.md)
 
 
 # 产品
 
-- [马斯洛需求层次理论]()
+- [马斯洛需求层次理论](product_manager/马斯洛需求层次理论.md)
 
 
